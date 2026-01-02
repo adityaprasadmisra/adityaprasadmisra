@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=348F8A&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aditya+Misra;ECE+%2B+Software+Developer;DSA+%7C+Full-Stack+%7C+AI+%2F+ML;Building+CodeRun+⚡" />
-</p>
 
 ---
 
