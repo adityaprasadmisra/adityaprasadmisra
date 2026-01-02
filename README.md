@@ -12,7 +12,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:348f8a,100:000000&height=2" />
+
 
 ## 🚧 Currently Building
 
