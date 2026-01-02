@@ -40,16 +40,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:348f8a,100:000000&height=2" />
 
-## 📄 Resume
-
-📌 You can view or download my resume here:
-
-- 👉 **[Resume](#)**
-- 👉 **[CV](#)**
-
-*(Upload your PDF to Google Drive or GitHub and replace `#` with the link)*
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:348f8a,100:000000&height=2" />
 
@@ -76,7 +66,7 @@
 
 ## 🏆 Highlights
 
-- 🧠 **200+ DSA problems** solved
+- 🧠 **400+ DSA problems** solved
 - 🚀 Building **production-grade projects**
 - 📈 Consistent learner & contributor
 - 🔌 Strong **ECE + Software hybrid** foundation
