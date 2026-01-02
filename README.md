@@ -23,7 +23,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:348f8a,100:000000&height=2" />
 
 ## 🛠️ Tech Stack & Tools
 
@@ -38,10 +37,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:348f8a,100:000000&height=2" />
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:348f8a,100:000000&height=2" />
 
 ## 🌐 Connect With Me
 
@@ -62,7 +57,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:348f8a,100:000000&height=2" />
+
 
 ## 🏆 Highlights
 
@@ -73,7 +68,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:348f8a,100:000000&height=2" />
+
 
 ## 📊 GitHub Stats
 
@@ -94,11 +89,4 @@
 ⭐ **Consistency beats intensity.**
 
 
-## 📊 GitHub Stats & Activity
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamisra&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamisra&layout=compact&theme=tokyonight)
-
----
-
-⭐ *“Consistency beats intensity.”*
