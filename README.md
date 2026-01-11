@@ -127,7 +127,8 @@ graph LR
 🔭 Exploring the intersection of **AI**, **IoT**, and **Web Development**  
 🌱 Currently deepening my knowledge in **Machine Learning** and **Embedded Systems**  
 💡 Open to collaborate on innovative projects and open-source contributions  
-🎓 B.Tech 2nd Year | Computer Science & Engineering
+🎓 Dual degree(B.tech + M.tech) 2nd Year | Electronics and communication engineering & specialization in VLSI
+   BS in Electronics systems
 
 </div>
 
