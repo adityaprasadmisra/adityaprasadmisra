@@ -25,7 +25,7 @@ class AdityaPrasadMisra:
             "languages": ["C", "C++", "Python", "JavaScript", "HTML", "CSS", "Verilog"],
             "frameworks": ["Flask", "FastAPI", "PyTorch", "React", "Tailwind CSS"],
             "hardware": ["ESP32", "Xilinx", "Embedded Systems"],
-            "tools": ["Git", "VS Code", "Linux"]
+            "tools": ["Git", "GitHub", "Linux", "Postman", "VS Code"]
         }
     
     def say_hi(self):
@@ -60,6 +60,13 @@ me.say_hi()
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-00979D?style=for-the-badge&logo=v&logoColor=white)
 ![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
