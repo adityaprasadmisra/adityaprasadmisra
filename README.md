@@ -2,7 +2,7 @@
   
 # 👋 Hey there! I'm Aditya Prasad Misra
 
-### 🚀 B.Tech Student | 💻 Full-Stack Developer | 🤖 ML Enthusiast | ⚡ Electronics Explorer
+### 🚀 B.Tech Student | 🤖 ML Enthusiast | ⚡ Electronics Explorer | 💻 Full-Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code+%F0%9F%92%BB;Electronics+%2B+AI+%2B+Software+%F0%9F%94%A5;400%2B+Problems+Solved+%F0%9F%8E%AF;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
