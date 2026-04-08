@@ -2,41 +2,6 @@
   
 # 👋 Hey there! I'm Aditya Prasad Misra
 
-### 🚀 B.Tech Student | 🤖 ML Enthusiast | ⚡ Electronics Explorer | 💻 Full-Stack Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code+%F0%9F%92%BB;Electronics+%2B+AI+%2B+Software+%F0%9F%94%A5;400%2B+Problems+Solved+%F0%9F%8E%AF;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🌟 About Me
-
-```python
-class AdityaPrasadMisra:
-    def __init__(self):
-        self.role = "B.Tech 2nd Year Student"
-        self.interests = ["Machine Learning", "Software Development", "Electronics"]
-        self.current_focus = "Building innovative projects at the intersection of hardware & AI"
-        self.competitive_programming = "400+ problems solved 🎯"
-        
-    def get_skills(self):
-        return {
-            "languages": ["C", "C++", "Python", "JavaScript", "HTML", "CSS", "Verilog"],
-            "frameworks": ["Flask", "FastAPI", "PyTorch", "React", "Tailwind CSS"],
-            "hardware": ["ESP32", "Xilinx", "Embedded Systems"],
-            "tools": ["Git", "GitHub", "Linux", "Postman", "VS Code"]
-        }
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-
-me = AdityaPrasadMisra()
-me.say_hi()
-```
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
