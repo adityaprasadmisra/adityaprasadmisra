@@ -104,4 +104,5 @@ Project focused on recognizing hand gestures using EMG signals for human-machine
 ## GitHub Statistics
 
 ```txt
-Replace YOUR_USERNAME with your GitHub username
+adityaprasadmisra
+
