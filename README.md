@@ -1,129 +1,107 @@
-<div align="center">
-  
-# 👋 Hey there! I'm Aditya Prasad Misra
 
-## 🛠️ Tech Stack
+# Aditya Mishra
 
-<div align="center">
+## Student Developer | Technology Enthusiast | AI & Full Stack Learner
+
+I am a student passionate about building real-world projects using Artificial Intelligence, Computer Vision, Web Development, and Embedded Systems. I enjoy learning new technologies, solving problems, and developing practical applications.
+
+---
+
+## About Me
+
+- Student at IIITDM Kancheepuram
+- Interested in AI, Machine Learning, and Full Stack Development
+- Exploring Computer Vision and Embedded Systems
+- Practicing Data Structures and Algorithms
+- Interested in Linux systems and backend technologies
+
+---
+
+## Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- Python
+- C
+- C++
+- SQL
+- Verilog
 
-### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Web and Backend
+- React
+- Flask
+- Django
+- FastAPI
 
-### Hardware & Electronics
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-00979D?style=for-the-badge&logo=v&logoColor=white)
-![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
+### AI / ML / Computer Vision
+- YOLOv8
+- OpenCV
+- Machine Learning Basics
 
-### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+### Tools and Platforms
+- Linux
+- Git
+- GitHub
+- VS Code
 
 ---
 
-## 📊 GitHub Stats
+## Projects
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=adityaprasadmisra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+### Clamp Detection using YOLOv8
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaprasadmisra&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
+Computer Vision project focused on detecting industrial clamps on pipelines using YOLOv8.
 
-</div>
+#### Features
+- Object detection using YOLOv8
+- Custom annotated dataset
+- Real-time detection support
+- Industrial pipeline image analysis
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprasadmisra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaprasadmisra&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9" alt="Contribution Graph" width="98%" />
-
-</div>
-
----
-
-## 🏆 Competitive Programming
-
-<div align="center">
-
-### 💪 400+ Problems Solved Across Platforms
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aditya_Prasad_Misra21/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
-
-<img src="https://leetcard.jacoblin.cool/Aditya_Prasad_Misra21?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-
-</div>
+#### Technologies Used
+- Python
+- YOLOv8
+- OpenCV
+- Roboflow
 
 ---
 
-## 🎯 Current Focus
+### EMG-Based Hand Gesture Recognition
 
-<div align="center">
+Project focused on recognizing hand gestures using EMG signals for human-machine interaction.
 
-```mermaid
-graph LR
-    A[Learning] --> B[Building Projects]
-    B --> C[Combining ML + Electronics]
-    C --> D[Creating Impact]
-    D --> A
-    
-    style A fill:#00D9FF,stroke:#fff,stroke-width:2px,color:#000
-    style B fill:#00D9FF,stroke:#fff,stroke-width:2px,color:#000
-    style C fill:#00D9FF,stroke:#fff,stroke-width:2px,color:#000
-    style D fill:#00D9FF,stroke:#fff,stroke-width:2px,color:#000
-```
+#### Features
+- EMG signal processing
+- Gesture classification
+- Machine learning based recognition
+- Potential applications in prosthetics and automation
 
-🔭 Exploring the intersection of **AI**, **IoT**, and **Web Development**  
-🌱 Currently deepening my knowledge in **Machine Learning** and **Embedded Systems**  
-💡 Open to collaborate on innovative projects and open-source contributions  
-🎓 Dual degree(B.tech + M.tech) 2nd Year | Electronics and communication engineering & specialization in VLSI
-   BS in Electronics systems
-
-</div>
+#### Technologies Used
+- Python
+- Machine Learning
+- Signal Processing
+- Embedded Systems
 
 ---
 
-## 📫 Let's Connect!
+## Currently Learning
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-misra-b2578b317/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aditya_Prasad_Misra21/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadaditya2111@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaprasadmisra)
-
-</div>
+- Advanced Machine Learning
+- Backend Development
+- System Design Basics
+- Deep Learning
+- Full Stack Development
 
 ---
 
-<div align="center">
-  
-### 💭 Random Dev Quote
+## Coding and Problem Solving
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=adityaprasadmisra&color=00D9FF&style=for-the-badge)
+- Practicing Data Structures and Algorithms
+- Solved 200+ coding problems
+- Interested in optimization and efficient system design
 
 ---
 
-**⭐ From [adityaprasadmisra](https://github.com/adityaprasadmisra) | Built with 💙 and lots of ☕**
+## GitHub Statistics
 
-</div>
+```txt
+Replace YOUR_USERNAME with your GitHub username
