@@ -66,7 +66,7 @@
 
 ### 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,sql,javascript,verilog" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,sql,verilog" />
 
 ---
 
