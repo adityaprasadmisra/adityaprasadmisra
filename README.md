@@ -30,7 +30,7 @@
 
 <table>
 <tr>
-<td width="55%">
+
 
 - 🎓 Student at **IIITDM Kancheepuram**
 - 🎓 Pursuing **BS in Electronic Systems from IIT Madras**
