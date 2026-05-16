@@ -1,16 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Aditya Mishra
-
-
-
----
-
-### 🚀 IIITDM Kancheepuram • IIT Madras BS Electronic Systems • AI Developer
-
-<br>
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Aditya+Mishra;AI+%7C+Computer+Vision+%7C+Full+Stack;Competitive+Programmer;Building+Real-World+Projects+🚀" />
 
 </div>
 
@@ -18,41 +8,44 @@
 
 <div align="center">
 
-| 🏆 LeetCode | ⭐ CodeChef | ⚡ Codeforces |
-|---|---|---|
-| 400+ Problems Solved | 2★ Rated | Currently Active |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Aditya%20Mishra&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
 <table>
 <tr>
+<td width="55%">
 
+### 👨‍💻 Developer Profile
 
-- 🎓 Student at **IIITDM Kancheepuram**
-- 🎓 Pursuing **BS in Electronic Systems from IIT Madras**
-- 🤖 Interested in **AI, Computer Vision & Full Stack Development**
-- ⚡ Exploring **Backend Systems & Linux**
-- 🧠 Practicing **DSA & Competitive Programming**
-- 🚀 Building practical real-world applications
+- 🎓 IIITDM Kancheepuram
+- 🎓 IIT Madras BS Electronic Systems
+- 🤖 AI & Computer Vision Enthusiast
+- 🌐 Full Stack Developer
+- 🐧 Linux & Backend Explorer
+- ⚡ Competitive Programmer
+- 🧠 DSA Problem Solver
 
-### 💬 Ask Me About
+---
 
-- Computer Vision
+### 💡 Interests
+
+- Machine Learning
+- Deep Learning
 - YOLOv8
-- React & FastAPI
-- Flask Development
-- DSA & Competitive Programming
-- Linux & Backend Development
+- Backend Engineering
+- System Design
+- Real-Time AI Systems
 
 </td>
 
 <td width="45%">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJkMGV3YjJla2Q0aDk4eDJra3Q2ZG80cXdjdnA2NzE3NXQ5djBlNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 
 </td>
 </tr>
@@ -60,53 +53,13 @@
 
 ---
 
-# ⚒️ Tech Stack
-
-<div align="center">
-
-### 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,verilog" />
-
----
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=react,flask,django,fastapi,html,css,nodejs" />
-
----
-
-### 🤖 AI / ML / Computer Vision
-
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" />
-
-<br>
-
-YOLOv8 • Deep Learning • OpenCV • Signal Processing
-
----
-
-### 🛠 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman" />
-
-</div>
-
----
-
-# 🏆 Competitive Programming
+# ⚡ Competitive Programming
 
 <div align="center">
 
 <a href="https://leetcode.com/u/Aditya_Prasad_Misra21/">
-<img src="https://leetcard.jacoblin.cool/Aditya_Prasad_Misra21?theme=dark&font=Baloo+Bhai&ext=contest"/>
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
 
 <a href="https://www.codechef.com/users/curex_21">
 <img src="https://img.shields.io/badge/CodeChef-2★-brown?style=for-the-badge&logo=codechef"/>
@@ -120,48 +73,101 @@ YOLOv8 • Deep Learning • OpenCV • Signal Processing
 
 ---
 
-# 🚀 Featured Projects
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Aditya_Prasad_Misra21?theme=dark&font=Baloo+Bhai&ext=contest"/>
+
+</div>
+
+---
+
+# ⚒️ Tech Stack
+
+<div align="center">
+
+## 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,sql,javascript,verilog" />
+
+---
+
+## 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=react,flask,django,fastapi,html,css,nodejs" />
+
+---
+
+## 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" />
+
+YOLOv8 • OpenCV • Deep Learning • Signal Processing
+
+---
+
+## 🛠 Tools
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman,docker" />
+
+</div>
+
+---
+
+# 🔥 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
 
 ## 🛰 Clamp Detection using YOLOv8
 
 ```txt
-Industrial clamp detection system using YOLOv8
-for pipeline inspection and monitoring.
+Industrial pipeline clamp detection system
+using YOLOv8 and OpenCV.
 ```
 
-### ✨ Features
+### ⚡ Features
 
 - Real-time object detection
 - Custom annotated dataset
 - Pipeline image analysis
 - OpenCV integration
 
-### ⚙️ Technologies
+### 🛠 Stack
 
 ```txt
 Python • YOLOv8 • OpenCV • Roboflow
 ```
 
----
+</td>
 
-## ✋ EMG-Based Hand Gesture Recognition
+<td width="50%">
+
+## ✋ EMG Gesture Recognition
 
 ```txt
-Machine learning based gesture recognition
-using EMG signals for human-machine interaction.
+EMG signal based hand gesture
+recognition system.
 ```
 
-### ✨ Features
+### ⚡ Features
 
-- EMG signal processing
+- Signal processing
 - Gesture classification
-- Prosthetic & automation applications
+- Human-machine interaction
+- Prosthetic applications
 
-### ⚙️ Technologies
+### 🛠 Stack
 
 ```txt
-Python • Machine Learning • Embedded Systems
+Python • ML • Embedded Systems
 ```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -169,13 +175,13 @@ Python • Machine Learning • Embedded Systems
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=adityaprasadmisra&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaprasadmisra&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprasadmisra&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprasadmisra&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -200,28 +206,28 @@ Python • Machine Learning • Embedded Systems
 <div align="center">
 
 <a href="https://github.com/adityaprasadmisra">
-<img src="https://skillicons.dev/icons?i=github" width="52"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
 <a href="https://leetcode.com/u/Aditya_Prasad_Misra21/">
-<img src="https://cdn.simpleicons.org/leetcode" width="52"/>
+<img src="https://cdn.simpleicons.org/leetcode" width="55"/>
 </a>
 
 <a href="https://www.codechef.com/users/curex_21">
-<img src="https://cdn.simpleicons.org/codechef" width="52"/>
+<img src="https://cdn.simpleicons.org/codechef" width="55"/>
 </a>
 
 <a href="https://codeforces.com/profile/curex21">
-<img src="https://cdn.simpleicons.org/codeforces" width="52"/>
+<img src="https://cdn.simpleicons.org/codeforces" width="55"/>
 </a>
 
 </div>
 
 ---
 
-<div align="center">
+# ⚡ Developer Mindset
 
-## ⚡ Developer Mindset
+<div align="center">
 
 ```txt
 Building > Talking
@@ -236,6 +242,6 @@ Learning Never Stops 🚀
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=150&section=footer"/>
 
 </div>
