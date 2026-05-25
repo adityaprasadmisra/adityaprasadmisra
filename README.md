@@ -86,7 +86,7 @@
 
 ## 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,Mysql,javascript,verilog" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,javascript,verilog" />
 
 ---
 
